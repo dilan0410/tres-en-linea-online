@@ -1,10 +1,10 @@
 # Tres en Raya Online Multijugador
 
-¡Hola! Este es el proyecto que considero mi primer proyecto "de verdad". Fue el desafío que me hizo entender (por las buenas y por las malas) qué tan divertido, emocionante y a la vez frustrante puede ser trabajar con conexiones en tiempo real y WebSockets. 
+¡Hola! Este es el proyecto que considero mi primer proyecto. Fue el desafío que me hizo entender (por las buenas y por las malas) qué tan divertido, emocionante y a la vez frustrante puede ser trabajar con conexiones en tiempo real y WebSockets. 
 
-Es un juego de Tres en Raya (Tic-Tac-Toe) multijugador en tiempo real. No es solo para jugar en la misma computadora; implementé la lógica para que puedas conectar a dos jugadores desde cualquier parte del mundo.
+Es un juego de Tres en Raya (Tic-Tac-Toe) multijugador en tiempo real. No es solo para jugar en la misma computadora, implementé la lógica para que puedas conectar a dos jugadores desde cualquier parte del mundo.
 
-**¡Pruébalo aquí en vivo!** -> [Tres en Línea Online](https://tres-en-linea-online-ruby.vercel.app/)  
+**Pruébalo aquí en vivo** -> [Tres en Línea Online](https://tres-en-linea-online-ruby.vercel.app/)  
 *(Nota: Está alojado en un servidor gratuito, así que si tardas en entrar, dale unos 30-60 segundos para que el backend "despierte".)*
 
 ---
